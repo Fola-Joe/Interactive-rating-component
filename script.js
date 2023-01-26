@@ -1,5 +1,5 @@
 const submit = document.querySelector('#submit');
-const numBtn = document.querySelectorAll('#btn');
+const numBtn = document.querySelectorAll('.btn');
 const page1 = document.querySelector('#rating-start');
 const page2 = document.querySelector('#thank-you-state');
 const rateNum = document.querySelector('#rate');
